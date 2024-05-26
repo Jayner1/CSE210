@@ -1,0 +1,2 @@
+0
+SimpleGoal|Simple|this is a goal|20|False
